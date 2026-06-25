@@ -1,0 +1,11 @@
+id,name,email,location,is_active
+1,Alice Johnson,alice.johnson@example.com,London,True
+2,Bob Smith,bob.smith@example.com,Manchester,False
+3,Charlie Brown,charlie.brown@example.com,Birmingham,True
+4,Diana Wilson,diana.wilson@example.com,Leeds,True
+5,Ethan Davis,ethan.davis@example.com,Glasgow,False
+6,Fiona Miller,fiona.miller@example.com,Liverpool,True
+7,George Taylor,george.taylor@example.com,Bristol,False
+8,Hannah Moore,hannah.moore@example.com,Edinburgh,True
+9,Ian Thomas,ian.thomas@example.com,Cardiff,True
+10,Julia Anderson,julia.anderson@example.com,Belfast,False
