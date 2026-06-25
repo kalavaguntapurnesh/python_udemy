@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Alice Johnson",
+    "email": "alice.johnson@example.com",
+    "location": "London",
+    "is_active": true
+  },
+  {
+    "id": 2,
+    "name": "Bob Smith",
+    "email": "bob.smith@example.com",
+    "location": "Manchester",
+    "is_active": false
+  },
+  {
+    "id": 3,
+    "name": "Charlie Brown",
+    "email": "charlie.brown@example.com",
+    "location": "Birmingham",
+    "is_active": true
+  },
+  {
+    "id": 4,
+    "name": "Diana Wilson",
+    "email": "diana.wilson@example.com",
+    "location": "Leeds",
+    "is_active": true
+  },
+  {
+    "id": 5,
+    "name": "Ethan Davis",
+    "email": "ethan.davis@example.com",
+    "location": "Glasgow",
+    "is_active": false
+  },
+  {
+    "id": 6,
+    "name": "Fiona Miller",
+    "email": "fiona.miller@example.com",
+    "location": "Liverpool",
+    "is_active": true
+  },
+  {
+    "id": 7,
+    "name": "George Taylor",
+    "email": "george.taylor@example.com",
+    "location": "Bristol",
+    "is_active": false
+  },
+  {
+    "id": 8,
+    "name": "Hannah Moore",
+    "email": "hannah.moore@example.com",
+    "location": "Edinburgh",
+    "is_active": true
+  },
+  {
+    "id": 9,
+    "name": "Ian Thomas",
+    "email": "ian.thomas@example.com",
+    "location": "Cardiff",
+    "is_active": true
+  },
+  {
+    "id": 10,
+    "name": "Julia Anderson",
+    "email": "julia.anderson@example.com",
+    "location": "Belfast",
+    "is_active": false
+  }
+]
