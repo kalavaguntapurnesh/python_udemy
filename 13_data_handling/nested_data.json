@@ -1,0 +1,49 @@
+[
+  {
+    "user": {
+      "id": 1,
+      "name": "Riya",
+      "email": "riya@example.com",
+      "address": {
+        "city": "Hyderabad",
+        "pincode": "500081"
+      }
+    },
+    "roles": [
+      "admin",
+      "editor"
+    ],
+    "is_active": true
+  },
+  {
+    "user": {
+      "id": 2,
+      "name": "Arjun",
+      "email": "arjun@example.com",
+      "address": {
+        "city": "Bengaluru",
+        "pincode": "560001"
+      }
+    },
+    "roles": [
+      "editor",
+      "viewer"
+    ],
+    "is_active": false
+  },
+  {
+    "user": {
+      "id": 3,
+      "name": "Sneha",
+      "email": "sneha@example.com",
+      "address": {
+        "city": "Chennai",
+        "pincode": "600028"
+      }
+    },
+    "roles": [
+      "viewer"
+    ],
+    "is_active": true
+  }
+]
